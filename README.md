@@ -1,4 +1,4 @@
-# portifoio
+# portfoio
 Portfólio do Desenvolvedor
 
 ## Tarefas
