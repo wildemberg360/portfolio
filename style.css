@@ -198,7 +198,17 @@ header{
 
     color: rgb(106, 53, 250);
     font-size: 2rem;
-
-
+    display: flex;
+    position:absolute;
+    bottom: 1rem;
+    width: 10%;
+    justify-content: space-evenly;
+    border-radius: 5px;
+   
 }
 
+.social-media i:hover{
+    background-color: rgba(196, 183, 248, 0.514);
+    background-size: 0.2rem;
+
+}
